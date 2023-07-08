@@ -2,3 +2,4 @@
 cat 
 tv
 light
+table
